@@ -1,0 +1,35 @@
+body { 
+    background-color: yellow;
+}  
+
+.paragraph { 
+    font-size: 22px;
+    font-style: italic;
+}
+
+.title-of-recipe { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 50px;
+    word-spacing: 20px; 
+    text-align: center; 
+}
+
+.ingredients, .list-of-ingredients { 
+    font-size: 15px;  
+} 
+
+.steps-header { 
+    font-family: fantasy;
+} 
+
+.steps-in-order { 
+    font-size: 22px; 
+    font-family:'Times New Roman', Times, serif
+} 
+
+.img { 
+    height: 200px; 
+   
+}
+
+

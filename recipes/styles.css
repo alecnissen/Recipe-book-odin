@@ -1,0 +1,49 @@
+/* css for blackberry smoothie */
+
+
+.description { 
+    color: black; 
+    background-color: purple; 
+    font-size: 25px; 
+    font-style: oblique;
+} 
+
+.description2 { 
+    color: black; 
+    background-color: purple; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px; 
+} 
+
+.ingredients { 
+    background-color: purple; 
+    font-style: italic;
+} 
+
+body { 
+    background-color: purple;
+} 
+.main-title { 
+font-size: 32px; 
+text-align: center;
+} 
+
+.step-of-ingredients { 
+    font-style: italic; 
+    background-color: purple;
+
+} 
+
+.list-of-ingredients { 
+    background-color: purple;
+} 
+
+.image { 
+    height: 300px; 
+    width: 300px; 
+} 
+
+.steps-heading { 
+    background-color: purple;
+} 
+
